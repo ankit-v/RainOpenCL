@@ -1,0 +1,830 @@
+INFO: Log file is successfully Created.
+OpenCL INFORMATION: 
+=====================================================================
+OpenCL Supporting GPU Platform Name : NVIDIA CUDA
+OpenCL Supporting GPU Platform Name : OpenCL 3.0 CUDA 12.2.135
+Total Number Of OpenCL Supporting GPU Device/Devices on this System : 1
+
+***************** GPU DEVICE GENERAL INFORMATION ******************
+===================================================================
+Number of the ocl_num_platforms                                : 3
+GPU Device Number                                              : 0
+GPU Device Name                                                : NVIDIA GeForce RTX 4080 Laptop GPU
+GPU Device Vendor                                              : NVIDIA Corporation
+GPU Device Driver Version                                      : 536.99
+GPU Device OpenCL Version                                      : OpenCL 3.0 CUDA
+GPU Device Clock Rate                                          : 2280
+
+***************** GPU DEVICE MEMORY INFORMATION *******************
+===================================================================
+GPU Device Global Memory                                         : 12878086144 Bytes
+GPU Device Local Memory                                          : 49152 Bytes
+GPU Device Constant Buffer Size                                  : 65536 Bytes
+
+***************** GPU DEVICE COMPUTE INFORMATION ******************
+===================================================================
+GPU Device Number of Parallel Processors Cores                    : 58
+GPU Device Work Group Size                                        : 1024
+GPU Device Work Item Dimensions                                   : 3
+GPU Device Work Item Sizes                                        : 3
+OpenGL Vendor: NVIDIA Corporation
+OpenGL Renderer: NVIDIA GeForce RTX 4080 Laptop GPU/PCIe/SSE2
+OpenGL Version: 4.6.0 NVIDIA 536.99
+GLSL Version : 4.60 NVIDIA
+Number of Supported Extensions: 403
+GL_AMD_multi_draw_indirect
+GL_AMD_seamless_cubemap_per_texture
+GL_AMD_vertex_shader_viewport_index
+GL_AMD_vertex_shader_layer
+GL_ARB_arrays_of_arrays
+GL_ARB_base_instance
+GL_ARB_bindless_texture
+GL_ARB_blend_func_extended
+GL_ARB_buffer_storage
+GL_ARB_clear_buffer_object
+GL_ARB_clear_texture
+GL_ARB_clip_control
+GL_ARB_color_buffer_float
+GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage
+GL_ARB_conservative_depth
+GL_ARB_compute_shader
+GL_ARB_compute_variable_group_size
+GL_ARB_conditional_render_inverted
+GL_ARB_copy_buffer
+GL_ARB_copy_image
+GL_ARB_cull_distance
+GL_ARB_debug_output
+GL_ARB_depth_buffer_float
+GL_ARB_depth_clamp
+GL_ARB_depth_texture
+GL_ARB_derivative_control
+GL_ARB_direct_state_access
+GL_ARB_draw_buffers
+GL_ARB_draw_buffers_blend
+GL_ARB_draw_indirect
+GL_ARB_draw_elements_base_vertex
+GL_ARB_draw_instanced
+GL_ARB_enhanced_layouts
+GL_ARB_ES2_compatibility
+GL_ARB_ES3_compatibility
+GL_ARB_ES3_1_compatibility
+GL_ARB_ES3_2_compatibility
+GL_ARB_explicit_attrib_location
+GL_ARB_explicit_uniform_location
+GL_ARB_fragment_coord_conventions
+GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program
+GL_ARB_fragment_program_shadow
+GL_ARB_fragment_shader
+GL_ARB_fragment_shader_interlock
+GL_ARB_framebuffer_no_attachments
+GL_ARB_framebuffer_object
+GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4
+GL_ARB_get_program_binary
+GL_ARB_get_texture_sub_image
+GL_ARB_gl_spirv
+GL_ARB_gpu_shader5
+GL_ARB_gpu_shader_fp64
+GL_ARB_gpu_shader_int64
+GL_ARB_half_float_pixel
+GL_ARB_half_float_vertex
+GL_ARB_imaging
+GL_ARB_indirect_parameters
+GL_ARB_instanced_arrays
+GL_ARB_internalformat_query
+GL_ARB_internalformat_query2
+GL_ARB_invalidate_subdata
+GL_ARB_map_buffer_alignment
+GL_ARB_map_buffer_range
+GL_ARB_multi_bind
+GL_ARB_multi_draw_indirect
+GL_ARB_multisample
+GL_ARB_multitexture
+GL_ARB_occlusion_query
+GL_ARB_occlusion_query2
+GL_ARB_parallel_shader_compile
+GL_ARB_pipeline_statistics_query
+GL_ARB_pixel_buffer_object
+GL_ARB_point_parameters
+GL_ARB_point_sprite
+GL_ARB_polygon_offset_clamp
+GL_ARB_post_depth_coverage
+GL_ARB_program_interface_query
+GL_ARB_provoking_vertex
+GL_ARB_query_buffer_object
+GL_ARB_robust_buffer_access_behavior
+GL_ARB_robustness
+GL_ARB_sample_locations
+GL_ARB_sample_shading
+GL_ARB_sampler_objects
+GL_ARB_seamless_cube_map
+GL_ARB_seamless_cubemap_per_texture
+GL_ARB_separate_shader_objects
+GL_ARB_shader_atomic_counter_ops
+GL_ARB_shader_atomic_counters
+GL_ARB_shader_ballot
+GL_ARB_shader_bit_encoding
+GL_ARB_shader_clock
+GL_ARB_shader_draw_parameters
+GL_ARB_shader_group_vote
+GL_ARB_shader_image_load_store
+GL_ARB_shader_image_size
+GL_ARB_shader_objects
+GL_ARB_shader_precision
+GL_ARB_shader_storage_buffer_object
+GL_ARB_shader_subroutine
+GL_ARB_shader_texture_image_samples
+GL_ARB_shader_texture_lod
+GL_ARB_shading_language_100
+GL_ARB_shader_viewport_layer_array
+GL_ARB_shading_language_420pack
+GL_ARB_shading_language_include
+GL_ARB_shading_language_packing
+GL_ARB_shadow
+GL_ARB_sparse_buffer
+GL_ARB_sparse_texture
+GL_ARB_sparse_texture2
+GL_ARB_sparse_texture_clamp
+GL_ARB_spirv_extensions
+GL_ARB_stencil_texturing
+GL_ARB_sync
+GL_ARB_tessellation_shader
+GL_ARB_texture_barrier
+GL_ARB_texture_border_clamp
+GL_ARB_texture_buffer_object
+GL_ARB_texture_buffer_object_rgb32
+GL_ARB_texture_buffer_range
+GL_ARB_texture_compression
+GL_ARB_texture_compression_bptc
+GL_ARB_texture_compression_rgtc
+GL_ARB_texture_cube_map
+GL_ARB_texture_cube_map_array
+GL_ARB_texture_env_add
+GL_ARB_texture_env_combine
+GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3
+GL_ARB_texture_filter_anisotropic
+GL_ARB_texture_filter_minmax
+GL_ARB_texture_float
+GL_ARB_texture_gather
+GL_ARB_texture_mirror_clamp_to_edge
+GL_ARB_texture_mirrored_repeat
+GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two
+GL_ARB_texture_query_levels
+GL_ARB_texture_query_lod
+GL_ARB_texture_rectangle
+GL_ARB_texture_rg
+GL_ARB_texture_rgb10_a2ui
+GL_ARB_texture_stencil8
+GL_ARB_texture_storage
+GL_ARB_texture_storage_multisample
+GL_ARB_texture_swizzle
+GL_ARB_texture_view
+GL_ARB_timer_query
+GL_ARB_transform_feedback2
+GL_ARB_transform_feedback3
+GL_ARB_transform_feedback_instanced
+GL_ARB_transform_feedback_overflow_query
+GL_ARB_transpose_matrix
+GL_ARB_uniform_buffer_object
+GL_ARB_vertex_array_bgra
+GL_ARB_vertex_array_object
+GL_ARB_vertex_attrib_64bit
+GL_ARB_vertex_attrib_binding
+GL_ARB_vertex_buffer_object
+GL_ARB_vertex_program
+GL_ARB_vertex_shader
+GL_ARB_vertex_type_10f_11f_11f_rev
+GL_ARB_vertex_type_2_10_10_10_rev
+GL_ARB_viewport_array
+GL_ARB_window_pos
+GL_ATI_draw_buffers
+GL_ATI_texture_float
+GL_ATI_texture_mirror_once
+GL_S3_s3tc
+GL_EXT_texture_env_add
+GL_EXT_abgr
+GL_EXT_bgra
+GL_EXT_bindable_uniform
+GL_EXT_blend_color
+GL_EXT_blend_equation_separate
+GL_EXT_blend_func_separate
+GL_EXT_blend_minmax
+GL_EXT_blend_subtract
+GL_EXT_compiled_vertex_array
+GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test
+GL_EXT_direct_state_access
+GL_EXT_draw_buffers2
+GL_EXT_draw_instanced
+GL_EXT_draw_range_elements
+GL_EXT_fog_coord
+GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample
+GL_EXTX_framebuffer_mixed_formats
+GL_EXT_framebuffer_multisample_blit_scaled
+GL_EXT_framebuffer_object
+GL_EXT_framebuffer_sRGB
+GL_EXT_geometry_shader4
+GL_EXT_gpu_program_parameters
+GL_EXT_gpu_shader4
+GL_EXT_multi_draw_arrays
+GL_EXT_multiview_texture_multisample
+GL_EXT_multiview_timer_query
+GL_EXT_packed_depth_stencil
+GL_EXT_packed_float
+GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object
+GL_EXT_point_parameters
+GL_EXT_polygon_offset_clamp
+GL_EXT_post_depth_coverage
+GL_EXT_provoking_vertex
+GL_EXT_raster_multisample
+GL_EXT_rescale_normal
+GL_EXT_secondary_color
+GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color
+GL_EXT_shader_image_load_formatted
+GL_EXT_shader_image_load_store
+GL_EXT_shader_integer_mix
+GL_EXT_shadow_funcs
+GL_EXT_sparse_texture2
+GL_EXT_stencil_two_side
+GL_EXT_stencil_wrap
+GL_EXT_texture3D
+GL_EXT_texture_array
+GL_EXT_texture_buffer_object
+GL_EXT_texture_compression_dxt1
+GL_EXT_texture_compression_latc
+GL_EXT_texture_compression_rgtc
+GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map
+GL_EXT_texture_edge_clamp
+GL_EXT_texture_env_combine
+GL_EXT_texture_env_dot3
+GL_EXT_texture_filter_anisotropic
+GL_EXT_texture_filter_minmax
+GL_EXT_texture_integer
+GL_EXT_texture_lod
+GL_EXT_texture_lod_bias
+GL_EXT_texture_mirror_clamp
+GL_EXT_texture_object
+GL_EXT_texture_shadow_lod
+GL_EXT_texture_shared_exponent
+GL_EXT_texture_sRGB
+GL_EXT_texture_sRGB_R8
+GL_EXT_texture_sRGB_decode
+GL_EXT_texture_storage
+GL_EXT_texture_swizzle
+GL_EXT_timer_query
+GL_EXT_transform_feedback2
+GL_EXT_vertex_array
+GL_EXT_vertex_array_bgra
+GL_EXT_vertex_attrib_64bit
+GL_EXT_window_rectangles
+GL_EXT_import_sync_object
+GL_IBM_rasterpos_clip
+GL_IBM_texture_mirrored_repeat
+GL_KHR_context_flush_control
+GL_KHR_debug
+GL_EXT_memory_object
+GL_EXT_memory_object_win32
+GL_NV_memory_object_sparse
+GL_EXT_win32_keyed_mutex
+GL_KHR_parallel_shader_compile
+GL_KHR_no_error
+GL_KHR_robust_buffer_access_behavior
+GL_KHR_robustness
+GL_EXT_semaphore
+GL_EXT_semaphore_win32
+GL_NV_timeline_semaphore
+GL_KHR_shader_subgroup
+GL_KTX_buffer_region
+GL_NV_alpha_to_coverage_dither_control
+GL_NV_bindless_multi_draw_indirect
+GL_NV_bindless_multi_draw_indirect_count
+GL_NV_bindless_texture
+GL_NV_blend_equation_advanced
+GL_NV_blend_equation_advanced_coherent
+GL_NVX_blend_equation_advanced_multi_draw_buffers
+GL_NV_blend_minmax_factor
+GL_NV_blend_square
+GL_NV_clip_space_w_scaling
+GL_NV_command_list
+GL_NV_compute_program5
+GL_NV_compute_shader_derivatives
+GL_NV_conditional_render
+GL_NV_conservative_raster
+GL_NV_conservative_raster_dilate
+GL_NV_conservative_raster_pre_snap
+GL_NV_conservative_raster_pre_snap_triangles
+GL_NV_conservative_raster_underestimation
+GL_NV_copy_depth_to_color
+GL_NV_copy_image
+GL_NV_depth_buffer_float
+GL_NV_depth_clamp
+GL_NV_draw_texture
+GL_NV_draw_vulkan_image
+GL_NV_ES1_1_compatibility
+GL_NV_ES3_1_compatibility
+GL_NV_explicit_multisample
+GL_NV_feature_query
+GL_NV_fence
+GL_NV_fill_rectangle
+GL_NV_float_buffer
+GL_NV_fog_distance
+GL_NV_fragment_coverage_to_color
+GL_NV_fragment_program
+GL_NV_fragment_program_option
+GL_NV_fragment_program2
+GL_NV_fragment_shader_barycentric
+GL_NV_fragment_shader_interlock
+GL_NV_framebuffer_mixed_samples
+GL_NV_framebuffer_multisample_coverage
+GL_NV_geometry_shader4
+GL_NV_geometry_shader_passthrough
+GL_NV_gpu_program4
+GL_NV_internalformat_sample_query
+GL_NV_gpu_program4_1
+GL_NV_gpu_program5
+GL_NV_gpu_program5_mem_extended
+GL_NV_gpu_program_fp64
+GL_NV_gpu_shader5
+GL_NV_half_float
+GL_NV_light_max_exponent
+GL_NV_memory_attachment
+GL_NV_mesh_shader
+GL_NV_multisample_coverage
+GL_NV_multisample_filter_hint
+GL_NV_occlusion_query
+GL_NV_packed_depth_stencil
+GL_NV_parameter_buffer_object
+GL_NV_parameter_buffer_object2
+GL_NV_path_rendering
+GL_NV_path_rendering_shared_edge
+GL_NV_pixel_data_range
+GL_NV_point_sprite
+GL_NV_primitive_restart
+GL_NV_primitive_shading_rate
+GL_NV_query_resource
+GL_NV_query_resource_tag
+GL_NV_register_combiners
+GL_NV_register_combiners2
+GL_NV_representative_fragment_test
+GL_NV_sample_locations
+GL_NV_sample_mask_override_coverage
+GL_NV_scissor_exclusive
+GL_NV_shader_atomic_counters
+GL_NV_shader_atomic_float
+GL_NV_shader_atomic_float64
+GL_NV_shader_atomic_fp16_vector
+GL_NV_shader_atomic_int64
+GL_NV_shader_buffer_load
+GL_NV_shader_storage_buffer_object
+GL_NV_shader_subgroup_partitioned
+GL_NV_shader_texture_footprint
+GL_NV_shading_rate_image
+GL_NV_stereo_view_rendering
+GL_NV_texgen_reflection
+GL_NV_texture_barrier
+GL_NV_texture_compression_vtc
+GL_NV_texture_dirty_tile_map
+GL_NV_texture_env_combine4
+GL_NV_texture_multisample
+GL_NV_texture_rectangle
+GL_NV_texture_rectangle_compressed
+GL_NV_texture_shader
+GL_NV_texture_shader2
+GL_NV_texture_shader3
+GL_NV_transform_feedback
+GL_NV_transform_feedback2
+GL_NV_uniform_buffer_unified_memory
+GL_NV_uniform_buffer_std430_layout
+GL_NV_vertex_array_range
+GL_NV_vertex_array_range2
+GL_NV_vertex_attrib_integer_64bit
+GL_NV_vertex_buffer_unified_memory
+GL_NV_vertex_program
+GL_NV_vertex_program1_1
+GL_NV_vertex_program2
+GL_NV_vertex_program2_option
+GL_NV_vertex_program3
+GL_NV_viewport_array2
+GL_NV_viewport_swizzle
+GL_NVX_conditional_render
+GL_NVX_linked_gpu_multicast
+GL_NV_gpu_multicast
+GL_NVX_gpu_multicast2
+GL_NVX_progress_fence
+GL_NVX_gpu_memory_info
+GL_NVX_multigpu_info
+GL_NVX_nvenc_interop
+GL_NV_shader_thread_group
+GL_NV_shader_thread_shuffle
+GL_KHR_blend_equation_advanced
+GL_KHR_blend_equation_advanced_coherent
+GL_OVR_multiview
+GL_OVR_multiview2
+GL_SGIS_generate_mipmap
+GL_SGIS_texture_lod
+GL_SGIX_depth_texture
+GL_SGIX_shadow
+GL_SUN_slice_accum
+GL_WIN_swap_hint
+WGL_EXT_swap_control
+INFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(0).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(1).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(2).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(3).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(4).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(5).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(6).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(7).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(8).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(9).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(10).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(11).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(12).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(13).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(14).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(15).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(16).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(17).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(18).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(19).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(20).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(21).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(22).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(23).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(24).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(25).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(26).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(27).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(28).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(29).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(30).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(31).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(32).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(33).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(34).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(35).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(36).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(37).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(38).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(39).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(40).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(41).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(42).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(43).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(44).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(45).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(46).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(47).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(48).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(49).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(50).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(51).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(52).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(53).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(54).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(55).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(56).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(57).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(58).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(59).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(60).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(61).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(62).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(63).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(64).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(65).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(66).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(67).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(68).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(69).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(70).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(71).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(72).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(73).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(74).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(75).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(76).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(77).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(78).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(79).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(80).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(81).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(82).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(83).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(84).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(85).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(86).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(87).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(88).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(89).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(90).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(91).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(92).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(93).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(94).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(95).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(96).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(97).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(98).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(99).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(100).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(101).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(102).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(103).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(104).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(105).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(106).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(107).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(108).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(109).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(110).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(111).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(112).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(113).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(114).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(115).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(116).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(117).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(118).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(119).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(120).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(121).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(122).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(123).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(124).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(125).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(126).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(127).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(128).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(129).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(130).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(131).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(132).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(133).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(134).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(135).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(136).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(137).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(138).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(139).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(140).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(141).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(142).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(143).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(144).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(145).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(146).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(147).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(148).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(149).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(150).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(151).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(152).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(153).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(154).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(155).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(156).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(157).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(158).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(159).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(160).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(161).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(162).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(163).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(164).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(165).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(166).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(167).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(168).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(169).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(170).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(171).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(172).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(173).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(174).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(175).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(176).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(177).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(178).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(179).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(180).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(181).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(182).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(183).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(184).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(185).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(186).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(187).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(188).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(189).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(190).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(191).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(192).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(193).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(194).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(195).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(196).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(197).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(198).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(199).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(200).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(201).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(202).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(203).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(204).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(205).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(206).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(207).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(208).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(209).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(210).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(211).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(212).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(213).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(214).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(215).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(216).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(217).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(218).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(219).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(220).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(221).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(222).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(223).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(224).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(225).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(226).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(227).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(228).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(229).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(230).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(231).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(232).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(233).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(234).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(235).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(236).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(237).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(238).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(239).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(240).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(241).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(242).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(243).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(244).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(245).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(246).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(247).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(248).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(249).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(250).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(251).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(252).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(253).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(254).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(255).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(256).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(257).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(258).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(259).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(260).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(261).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(262).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(263).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(264).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(265).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(266).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(267).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(268).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(269).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(270).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(271).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(272).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(273).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(274).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(275).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(276).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(277).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(278).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(279).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(280).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(281).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(282).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(283).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(284).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(285).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(286).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(287).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(288).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(289).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(290).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(291).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(292).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(293).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(294).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(295).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(296).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(297).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(298).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(299).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(300).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(301).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(302).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(303).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(304).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(305).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(306).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(307).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(308).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(309).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(310).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(311).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(312).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(313).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(314).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(315).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(316).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(317).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(318).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(319).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(320).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(321).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(322).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(323).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(324).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(325).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(326).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(327).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(328).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(329).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(330).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(331).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(332).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(333).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(334).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(335).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(336).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(337).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(338).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(339).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(340).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(341).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(342).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(343).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(344).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(345).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(346).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(347).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(348).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(349).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(350).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(351).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(352).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(353).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(354).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(355).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(356).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(357).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(358).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(359).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(360).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(361).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(362).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(363).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(364).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(365).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(366).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(367).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(368).pngINFO: Texture array 
+Path: C:\RTR4.0\GL_Effects\HPP\RainOpenCL\textures\cv0_vPos(369).pngINFO: Initialization success !!.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: WM_CHAR has arrived.
+INFO: Log file is successfully Closed.
