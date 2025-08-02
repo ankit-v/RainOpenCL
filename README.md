@@ -68,8 +68,6 @@ Watch the output and features in action:
 
 [![RainOpenCL Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=23c8TQg2rhM)
 
-*(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID)*
-
 ## License
 
 This project uses FreeType and other open-source libraries.
