@@ -1,6 +1,6 @@
 # RainOpenCL
 
-RainOpenCL is a Graphics application that simulates realistic rain effects using OpenGL for rendering and OpenCL for parallel computation. It also demonstrates font rendering using FreeType and supports texture-based intro/outro screens with sound playback.
+RainOpenCL is a graphics application that generates realistic rain effects using OpenGL for rendering and OpenCL for parallel computation. By varying particle counts to simulate different mesh sizes, it showcases the performance of both CPU and GPU processing, highlighting the advantages of parallel computing. The project also features advanced font rendering with FreeType and includes texture-based intro and outro scenes.
 
 ## Features
 
@@ -9,7 +9,6 @@ RainOpenCL is a Graphics application that simulates realistic rain effects using
 - Font rendering with FreeType and custom shaders
 - Intro/outro screens with fade effects and sound (WAV playback)
 - Multiple texture assets for scenes
-- Configurable via source code
 
 ## Requirements
 
@@ -27,7 +26,6 @@ See the workspace tree for details. Key files:
 
 - Rain.cpp — Main application source
 - OGL.h, OGL.rc — Resource and header files
-- BitterPro-Regular.ttf — Font asset
 - intro.wav, outro.wav — Sound assets
 - Icon.ico — Application icon
 - freetype — FreeType headers
@@ -59,4 +57,19 @@ See the workspace tree for details. Key files:
 ## Customization
 
 - **Textures:** Add or replace textures in the code and resource files.
-- **Fonts:** Use
+- **Fonts:** Use any TTF font by updating the path in initializeFontRendering.
+- **Shaders:** Modify shader source strings in initialize and initializeFontRendering.
+- **Sounds:** Replace WAV files and update resource script OGL.rc.
+
+## YouTube Showcase
+
+A video demonstration of this project is available on YouTube.  
+Watch the output and features in action:
+
+[![RainOpenCL Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=23c8TQg2rhM)
+
+*(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID)*
+
+## License
+
+This project uses FreeType and other open-source libraries.
