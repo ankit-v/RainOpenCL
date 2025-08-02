@@ -66,7 +66,7 @@ See the workspace tree for details. Key files:
 A video demonstration of this project is available on YouTube.  
 Watch the output and features in action:
 
-[![RainOpenCL Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=23c8TQg2rhM)
+[![RainOpenCL Demo](https://img.youtube.com/vi/23c8TQg2rhM/0.jpg)](https://www.youtube.com/watch?v=23c8TQg2rhM)
 
 ## License
 
